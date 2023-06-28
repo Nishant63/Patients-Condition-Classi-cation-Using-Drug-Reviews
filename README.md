@@ -14,3 +14,6 @@ based on those features and created various models using NLP and
 achieved an accuracy of 88%. Further created a web app using 
 Streamlit to display the predicted condition and recommend a 
 suitable drug.
+
+Deployment:- 
+Run Drug_NLP.py file using streamlit
